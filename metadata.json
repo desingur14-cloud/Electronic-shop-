@@ -1,0 +1,7 @@
+{
+  "name": "ElectraFlow - AI-Powered Tech Store",
+  "description": "A high-end electronics e-commerce platform featuring AI-assisted shopping, smart product filtering, and a seamless tech-focused user experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
